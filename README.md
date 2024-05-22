@@ -10,7 +10,7 @@ DeepXplore is an automated testing tool for deep learning systems, designed to e
         Pillow version: 9.4.0
         OpenCV version: 4.8.0
 
-   (use "pip install" to install all the requirements or use google colab)
+   (use "pip install" or "brew install"(on macOS) to install all the requirements or use google colab)
 
 2. Dataset - We use MNIST dataset which contains handwritten images of number, The dataset has been directly imported keras, then loaded and preprocessed.
    
